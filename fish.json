@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Жёлтый окунь",
+    "latin_name": "Perca flavescens",
+    "is_salt_water_fish": true,
+    "sub_type_count": 13
+  },
+  {
+    "id": 2,
+    "name": "Золотой карась",
+    "latin_name": "Carassius carassius",
+    "is_salt_water_fish": true,
+    "sub_type_count": 19
+  },
+  {
+    "id": 3,
+    "name": "Обыкнове́нный сом",
+    "latin_name": "Silurus glanis",
+    "is_salt_water_fish": true,
+    "sub_type_count": 29
+  },
+  {
+    "id": 4,
+    "name": "Меланоцет Джонсона",
+    "latin_name": "Melanocetus johnsonii",
+    "is_salt_water_fish": false,
+    "sub_type_count": 3
+  },
+  {
+    "id": 5,
+    "name": "Треска",
+    "latin_name": "Gadus morhua",
+    "is_salt_water_fish": false,
+    "sub_type_count": 36
+  },
+  {
+    "id": 6,
+    "name": "Палтус",
+    "latin_name": "Hippoglossus hippoglossus",
+    "is_salt_water_fish": false,
+    "sub_type_count": 20
+  }
+]
