@@ -94,12 +94,6 @@ def num4(read_file):
         print()
         print("Запись не найдена!")
         print()
-            
-
-
-
-
-
 
 with open("fish.json", "r", encoding="utf-8") as file:
     read_file = json.load(file)
